@@ -1,0 +1,37 @@
+id,base_class,specialisation,category
+DH_HA,"Demon Hunter",Havoc,"Melee Damage"
+DH_VE,"Demon Hunter",Vengeance,Tank
+DK_BL,"Death Knight",Blood,Tank
+DK_FR,"Death Knight",Frost,"Melee Damage"
+DK_UN,"Death Knight",Unholy,"Melee Damage"
+DR_BA,Druid,Balance,"Ranged Damage"
+DR_FE,Druid,Feral,"Melee Damage"
+DR_GU,Druid,Guardian,Tank
+DR_RE,Druid,Restoration,Healer
+HU_BM,Hunter,"Beast Mastery","Ranged Damage"
+HU_MM,Hunter,Marksmanship,"Ranged Damage"
+HU_SU,Hunter,Survival,"Melee Damage"
+MA_AR,Mage,Arcane,"Ranged Damage"
+MA_FI,Mage,Fire,"Ranged Damage"
+MA_FR,Mage,Frost,"Ranged Damage"
+MO_BM,Monk,Brewmaster,Tank
+MO_MW,Monk,Mistweaver,Healer
+MO_WW,Monk,Windwalker,"Melee Damage"
+PA_HO,Paladin,Holy,Healer
+PA_PR,Paladin,Protection,Tank
+PA_RE,Paladin,Retribution,"Melee Damage"
+PR_DI,Priest,Discipline,Healer
+PR_HO,Priest,Holy,Healer
+PR_SH,Priest,Shadow,"Ranged Damage"
+RO_AS,Rogue,Assassination,"Melee Damage"
+RO_OL,Rogue,Outlaw,"Melee Damage"
+RO_SU,Rogue,Subtlety,"Melee Damage"
+SH_EL,Shaman,Elemental,"Ranged Damage"
+SH_EN,Shaman,Enhancement,"Melee Damage"
+SH_RE,Shaman,Restoration,Healer
+WA_AR,Warrior,Arms,"Melee Damage"
+WA_FU,Warrior,Fury,"Melee Damage"
+WA_PR,Warrior,Protection,Tank
+WL_AF,Warlock,Affliction,"Ranged Damage"
+WL_DM,Warlock,Demonology,"Ranged Damage"
+WL_DS,Warlock,Destruction,"Ranged Damage"

@@ -1,0 +1,12 @@
+id,level_2,level_4,level_7,level_10
+FO_BO_SK_IN,Fortified,Bolstering,Skittish,Infested
+FO_BU_QU_IN,Fortified,Bursting,Quaking,Infested
+FO_SA_GR_IN,Fortified,Sanguine,Grievous,Infested
+FO_TE_EX_IN,Fortified,Teeming,Explosive,Infested
+FO_TE_QU_IN,Fortified,Teeming,Quaking,Infested
+TY_BO_EX_IN,Tyrannical,Bolstering,Explosive,Infested
+TY_BO_GR_IN,Tyrannical,Bolstering,Grievous,Infested
+TY_BU_SK_IN,Tyrannical,Bursting,Skittish,Infested
+TY_RA_NE_IN,Tyrannical,Raging,Necrotic,Infested
+TY_RA_VO_IN,Tyrannical,Raging,Volcanic,Infested
+TY_TE_VO_IN,Tyrannical,Teeming,Volcanic,Infested
